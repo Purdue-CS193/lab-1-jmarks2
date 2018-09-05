@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
 - Creating website
 - Lab is easier to understand than CS 180
 - Being able to have an assignment that is clear and concise
